@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "fleet-kit",
+  "owner": {
+    "name": "Fleet Kit"
+  },
+  "description": "A single-plugin marketplace for Fleet Kit — the crew installer.",
+  "plugins": [
+    {
+      "name": "fleet-kit",
+      "source": "./",
+      "description": "Gives you your own 8-agent crew, tuned to how you work by a short plain-language setup interview.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Fleet Kit"
+      },
+      "license": "MIT"
+    }
+  ]
+}

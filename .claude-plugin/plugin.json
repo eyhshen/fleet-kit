@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "fleet-kit",
+  "displayName": "Fleet Kit",
+  "version": "0.1.0",
+  "description": "Gives you your own 8-agent crew (an architect front door plus specialists), tuned to how you work by a short plain-language setup interview.",
+  "author": {
+    "name": "Fleet Kit"
+  },
+  "homepage": "https://github.com/eyhshen/fleet-kit",
+  "repository": "https://github.com/eyhshen/fleet-kit",
+  "license": "MIT",
+  "keywords": ["agents", "crew", "workflow", "setup", "subagents"]
+}

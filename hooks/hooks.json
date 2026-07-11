@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "test -f \"$HOME/.claude/agents/architect.md\" || echo 'Fleet Kit is installed but not set up — run /fleet-kit:fleet-setup to build your crew.'"
+          }
+        ]
+      }
+    ]
+  }
+}
