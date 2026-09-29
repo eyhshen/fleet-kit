@@ -43,6 +43,11 @@ Nothing leaves your machine except normal Claude API calls. The interview reads 
 allow. The project scan is **opt-in** and shows a rough token cost estimate before it reads
 anything. The crew it writes lives in your own `~/.claude/agents/` — yours to edit or delete.
 
+## Using Codex?
+
+The Codex version lives in its own repo: **[eyhshen/codex-fleet-setup](https://github.com/eyhshen/codex-fleet-setup)**
+— a boss session plus cheap DeepSeek / Qwen / GLM helpers, set up through a short interview.
+
 ## Learn more
 
 See [USAGE.md](./USAGE.md) for the full how-to: meeting the crew, how the quality gate works,
